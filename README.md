@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devinhansaja" alt="devinhansaja" /></a> </p>
 
-- 🔭 I’m currently working on **ICET Pandadura**
+- 🔭 I’m currently Styding on **ICET Pandadura**
 
 - 🌱 I’m currently learning **Java**
 
